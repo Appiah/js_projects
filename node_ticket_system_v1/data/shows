@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "84jjfidjfosjfe8rhshf39234",
+    "name": "Rock Concert",
+    "houseSize": 100,
+    "reserved": 10
+  },
+  {
+    "_id": "54asdi239e928adf342uia332",
+    "name": "Shakespeare Play",
+    "houseSize": 50,
+    "reserved": 0
+  },
+  {
+    "_id": "38948437asjf378397200adhf2",
+    "name": "Monster Truck Rally",
+    "houseSize": 500,
+    "reserved": 500
+  }
+]
